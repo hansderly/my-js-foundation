@@ -49,6 +49,7 @@ Understanding JavaScript fundamentals is crucial for becoming a proficient devel
 - [Classes](javascript-fundamentals/classes.md)
 - [Functional Programming](javascript-fundamentals/functional-programming.md)
 - [Modules](javascript-fundamentals/modules.md)
+- [Async & Promise](javascript-fundamentals/async-promise.md)
 
 ## Contributing
 

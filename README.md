@@ -1,12 +1,29 @@
-# Data Structures, Algorithms, and JavaScript Fundamentals
+# JavaScript Fundamentals, Data Structures and Algorithms
 
 Welcome to the **Data Structures, Algorithms, and JavaScript Fundamentals** repository! This repository is dedicated to providing comprehensive explanations and code implementations for various data structures, algorithms, and essential JavaScript concepts. Whether you are a beginner looking to learn the basics or an experienced developer aiming to sharpen your skills, you'll find valuable resources here.
 
 ## Table of Contents
 
-1. [Data Structures](#data-structures)
-2. [Algorithms](#algorithms)
-3. [JavaScript Fundamentals](#javascript-fundamentals)
+1. [JavaScript Fundamentals](#javascript-fundamentals)
+2. [Data Structures](#data-structures)
+3. [Algorithms](#algorithms)
+
+## JavaScript Fundamentals
+
+Understanding JavaScript fundamentals is crucial for becoming a proficient developer. In this section, we cover various essential topics, including the JavaScript engine and runtime, 'this' keyword, hoisting, closures, call, apply, bind, lexical scope, prototypal inheritance, classes, and functional programming.
+
+- [JavaScript Engine and Runtime](javascript-fundamentals/javascript-engine.md)
+- [Hoisting](javascript-fundamentals/hoisting.md)
+- [Lexical Scope](javascript-fundamentals/lexical-scope.md)
+- ['this' Keyword](javascript-fundamentals/this-keyword.md)
+- [Recursion](javascript-fundamentals/recursion.md)
+- [Closures](javascript-fundamentals/closures.md)
+- [Call, Apply, and Bind](javascript-fundamentals/call-apply-bind.md)
+- [Prototypal Inheritance](javascript-fundamentals/prototypal-inheritance.md)
+- [Classes](javascript-fundamentals/classes.md)
+- [Functional Programming](javascript-fundamentals/functional-programming.md)
+- [Async & Promise](javascript-fundamentals/async-promise.md)
+- [Modules](javascript-fundamentals/modules.md)
 
 ## Data Structures
 
@@ -33,23 +50,6 @@ Here, we delve into various algorithms, ranging from sorting and searching to dy
 - [Depth-First Search (DFS)](algorithms/depth-first-search.js)
 - [Breadth-First Search (BFS)](algorithms/breadth-first-search.js)
 - [Dynamic Programming](algorithms/dynamic-programming.js)
-
-## JavaScript Fundamentals
-
-Understanding JavaScript fundamentals is crucial for becoming a proficient developer. In this section, we cover various essential topics, including the JavaScript engine and runtime, 'this' keyword, hoisting, closures, call, apply, bind, lexical scope, prototypal inheritance, classes, and functional programming.
-
-- [JavaScript Engine and Runtime](javascript-fundamentals/javascript-engine.md)
-- ['this' Keyword](javascript-fundamentals/this-keyword.md)
-- [Hoisting](javascript-fundamentals/hoisting.md)
-- [Recursion](javascript-fundamentals/recursion.md)
-- [Closures](javascript-fundamentals/closures.md)
-- [Call, Apply, and Bind](javascript-fundamentals/call-apply-bind.md)
-- [Lexical Scope](javascript-fundamentals/lexical-scope.md)
-- [Prototypal Inheritance](javascript-fundamentals/prototypal-inheritance.md)
-- [Classes](javascript-fundamentals/classes.md)
-- [Functional Programming](javascript-fundamentals/functional-programming.md)
-- [Modules](javascript-fundamentals/modules.md)
-- [Async & Promise](javascript-fundamentals/async-promise.md)
 
 ## Contributing
 

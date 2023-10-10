@@ -5,7 +5,7 @@ class Node {
   }
 }
 
-export class Stack {
+class Stack {
   constructor() {
     this.head = null;
     this.tail = null;
@@ -61,3 +61,5 @@ export class Stack {
     return this;
   }
 }
+
+module.exports = { Stack };

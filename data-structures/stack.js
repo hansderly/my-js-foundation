@@ -5,7 +5,7 @@ class Node {
   }
 }
 
-class Stack {
+export class Stack {
   constructor() {
     this.head = null;
     this.tail = null;

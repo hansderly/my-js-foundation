@@ -35,6 +35,7 @@ In this section, we explore fundamental data structures such as arrays, linked l
 - [Stack](data-structures/stack.js)
 - [Queue](data-structures/queue.js)
 - [Binary Tree](data-structures/binary-tree.js)
+- [Tree Traversal](data-structures/tree-traversal.js)
 - [Graph](data-structures/graph.js)
 - [Hash Table](data-structures/hash-table.js)
 

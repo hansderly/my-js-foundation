@@ -10,7 +10,7 @@ class PriorityQueue {
     this.values = [];
   }
 
-  insert(val, priority) {
+  enqueue(val, priority) {
     const node = new Node(val, priority);
 
     this.values.push(node);
@@ -22,7 +22,7 @@ class PriorityQueue {
       this._bubbleUp(node.priority, this.values, lastIndex, parentIndex);
   }
 
-  extractPriority() {
+  dequeue() {
     const priority = this.values[0];
     if (this.values.length === 1) {
       this.values = [];

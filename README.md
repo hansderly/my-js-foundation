@@ -4,9 +4,9 @@ Welcome to the **Data Structures, Algorithms, and JavaScript Fundamentals** repo
 
 ## Table of Contents
 
-1. [JavaScript Fundamentals](#javascript-fundamentals)
-2. [Data Structures](#data-structures)
-3. [Algorithms](#algorithms)
+1. [JavaScript Fundamentals](#javascript-fundamentals) [Push comming soon]
+2. [Data Structures](#data-structures) 90% complete
+3. [Algorithms](#algorithms) [Push comming soon]
 
 ## JavaScript Fundamentals
 
@@ -30,14 +30,14 @@ Understanding JavaScript fundamentals is crucial for becoming a proficient devel
 In this section, we explore fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and more. Each data structure comes with detailed explanations and JavaScript code implementations.
 
 - [Array](data-structures/array.js)
-- [Singly Linked List](data-structures/singly-linked-list.js)
-- [Doubly List](data-structures/doubly-linked-list.js)
-- [Stack](data-structures/stack.js)
-- [Queue](data-structures/queue.js)
-- [Binary Tree](data-structures/binary-tree.js)
-- [Tree Traversal](data-structures/tree-traversal.js)
-- [Binary Heap](data-structures/binary-heap.js)
-- [Priority Queue](data-structures/priority-queue.js)
+- [Singly Linked List](data-structures/singly-linked-list.js) ✅
+- [Doubly List](data-structures/doubly-linked-list.js) ✅
+- [Stack](data-structures/stack.js) ✅
+- [Queue](data-structures/queue.js) ✅
+- [Binary Tree](data-structures/binary-tree.js) ✅
+- [Tree Traversal](data-structures/tree-traversal.js) ✅
+- [Binary Heap](data-structures/binary-heap.js) ✅
+- [Priority Queue](data-structures/priority-queue.js) ✅
 - [Graph](data-structures/graph.js)
 - [Hash Table](data-structures/hash-table.js)
 

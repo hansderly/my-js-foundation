@@ -16,7 +16,7 @@ class PriorityQueue {
     this.values.push(node);
 
     const lastIndex = this.values.length - 1;
-    const parentIndex = (lastIndex - 1) / 2;
+    const parentIndex = Math.floor((lastIndex - 1) / 2);
 
     if (node.priority < this.values[parentIndex]?.priority)
       this._bubbleUp(node.priority, this.values, lastIndex, parentIndex);
@@ -41,7 +41,7 @@ class PriorityQueue {
       this._swap(arr, lastIndex, parentIndex);
 
       lastIndex = parentIndex;
-      parentIndex = (lastIndex - 1) / 2;
+      parentIndex = Math.floor((lastIndex - 1) / 2);
     }
   }
 
